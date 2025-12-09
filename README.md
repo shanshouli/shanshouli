@@ -6,11 +6,10 @@
 
 ## 🧑‍💻 About Me
 
-- M.S. in Computer Science @ Northeastern University, expected **Aug 2026**  
-- Focused on **backend, distributed systems, and ML systems**  
-- Enjoy building reliable data & ML pipelines: from ingestion → processing → serving  
-- Interested in **SWE / ML Engineer roles** (2026 new grad & co-op)  
-- Strengths: distributed & cloud infra, ML pipeline optimization, RAG-style applications
+- M.S. in Computer Science @ Northeastern University, graduating Aug 2026  
+- Build backend & distributed systems, with a focus on data / ML pipelines in production  
+- Strong experience with cloud infrastructure, and RAG-style applications  
+- Open to SWE / ML Engineer roles for 2026 new grad & co-op
 - Fun Fact: Born in one of China's spiciest provinces — but my “tolerance buffer” for spicy food frequently overflows.
 
 ---
@@ -52,7 +51,7 @@
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/></a>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="40"/></a>
-  <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" height="40"/></a>
+  <a href="https://www.terraform.io/" target="_blank"><img src="https://skillicons.dev/icons?i=terraform" alt="Terraform" height="40"/></a>
   <a href="https://www.jenkins.io/" target="_blank"><img src="https://skillicons.dev/icons?i=jenkins" alt="Jenkins" height="40"/></a>
   <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git" alt="Git" height="40"/></a>
@@ -70,7 +69,7 @@
   <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" height="40"/></a>
   <a href="https://www.mongodb.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" height="40"/></a>
   <a href="https://redis.io/" target="_blank"><img src="https://skillicons.dev/icons?i=redis" alt="Redis" height="40"/></a>
-  <a href="https://www.elastic.co/" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" height="40"/></a>
+  <a href="https://www.elastic.co/elasticsearch" target="_blank"><img src="https://skillicons.dev/icons?i=elasticsearch" alt="Elasticsearch" height="40"/></a>
   <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase" alt="Supabase" height="40"/></a>
   <a href="https://kafka.apache.org/" target="_blank">
   <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="28"/></a>
