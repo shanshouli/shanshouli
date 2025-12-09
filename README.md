@@ -81,7 +81,6 @@
   <a href="https://kafka.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" alt="Kafka" height="28"/>
   </a>
-  <a href="https://www.rabbitmq.com/" target="_blank"><img src="https://skillicons.dev/icons?i=rabbitmq" alt="RabbitMQ" height="40"/></a>
   <a href="https://rocketmq.apache.org/" target="_blank">
     <img src="https://img.shields.io/badge/RocketMQ-D77310?style=for-the-badge&logo=apache&logoColor=white" alt="RocketMQ" height="28"/>
   </a>
@@ -92,7 +91,8 @@
 ## 🌱 Fun Fact & Hobbies
 
 - Fun fact: born in one of China’s spiciest provinces — but my “tolerance buffer” for spicy food frequently overflows. 🌶️  
-- Outside of work I enjoy **hiking, swimming, and snowboarding**, and I’m planning to pick up **tennis** next.
+- Outside of work I enjoy **hiking, swimming, and snowboarding**, and I’m planning to pick up **tennis** 🎾 next.
+- I also love playing **Elden Ring** and time-loop games⏳.
 
 ---
 
