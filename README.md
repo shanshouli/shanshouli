@@ -49,7 +49,10 @@
   <a href="https://aws.amazon.com/" target="_blank"><img src="https://skillicons.dev/icons?i=aws" alt="AWS" height="40"/></a>
   <a href="https://www.docker.com/" target="_blank"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40"/></a>
   <a href="https://kubernetes.io/" target="_blank"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" height="40"/></a>
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="GitHub"/>
   <a href="https://github.com/features/actions" target="_blank"><img src="https://skillicons.dev/icons?i=githubactions" alt="GitHub Actions" height="40"/></a>
+  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/></a>
+  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40"/></a>
   <a href="https://www.terraform.io/" target="_blank">
     <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform" height="28"/>
   </a>
@@ -60,10 +63,6 @@
   <a href="https://www.atlassian.com/software/jira" target="_blank">
     <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" height="28"/>
   </a>
-  
-  <a href="https://www.linux.org/" target="_blank"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" height="40"/></a>
-  
-  <a href="https://www.postman.com/" target="_blank"><img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40"/></a>
 </p>
 
 ---
